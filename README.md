@@ -1,6 +1,6 @@
-# **Product Carousel for LC Waikiki**
+# **Product Carousel**
 
-A dynamic and responsive product carousel designed for LC Waikiki's product pages.
+A dynamic and responsive product carousel designed for e-commerce product pages.
 
 ## **Features**
 - Fetches product data from the provided JSON URL.
@@ -12,4 +12,4 @@ A dynamic and responsive product carousel designed for LC Waikiki's product page
 - Injected after the `.product-detail` element on product pages.
 
 ## **Usage**
-Add the script to LC Waikiki's product pages for integration. The carousel initializes automatically.
+Add the script to your product pages for integration. The carousel initializes automatically.
